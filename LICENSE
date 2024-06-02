@@ -19,3 +19,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+This project is based on data from the Behavioral Risk Factor Surveillance System (BRFSS) 
+surveys of the Centers for Disease Control and Prevention (CDC). The information has been 
+used without manipulating its original content and it is not intended for this project to 
+represent or be endorsed by the CDC. Data and materials produced by federal agencies are 
+generally in the public domain and may be reproduced without permission. However, the CDC 
+asks that any published material derived from the data acknowledge the CDC's BRFSS as the 
+original source.
