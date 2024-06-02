@@ -11,7 +11,6 @@
 # dominio público y se pueden reproducir sin permiso. Sin embargo, el CDC solicita que cualquier 
 # material publicado derivado de los datos reconozca a las encuestas BRFSS del CDC como fuente original.
 
-
 URLs de bfrss importantes para el seguimiento del proyecto PrediDia.
 
 Información de las encuestas desde 1988 hasta 2022: https://www.cdc.gov/brfss/annual_data/annual_data.htm
