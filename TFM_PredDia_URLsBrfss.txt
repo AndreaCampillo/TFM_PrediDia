@@ -9,7 +9,7 @@
 # sin manipular su contenido original y no se pretende que este proyecto represente o esté respaldado 
 # por el CDC. Los datos y materiales producidos por agencias federales generalmente están en el
 # dominio público y se pueden reproducir sin permiso. Sin embargo, el CDC solicita que cualquier 
-# madterial publicado derivado de los datos reconozca a las encuestas BRFSS del CDC como fuente original.
+# material publicado derivado de los datos reconozca a las encuestas BRFSS del CDC como fuente original.
 
 
 URLs de bfrss importantes para el seguimiento del proyecto PrediDia.
