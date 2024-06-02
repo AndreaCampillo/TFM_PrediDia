@@ -1,6 +1,7 @@
 Autor: Andrea Campillo Piqueras.
 
 Trabajo Fin de Máster Universitario en Análisis y Visualización de Datos Masivos/ Visual Analytics and Big Data.
+
 Título: PrediDia:Un Enfoque Predictivo para la Evaluación de la Diabetes.
 
 Organización del repositorio:
@@ -16,6 +17,7 @@ Para mayor claridad el presente repositorio se ha organizado en cinco ramas:
 		     evitar que en el futuro la ubicación original pudiera ser cambiada.
 
 Resumen:
+
 En el presente trabajo fin de máster se compara distintas técnicas de la Ciencia de Datos, Machine Learning y 
 Deep Learning con el objetivo de predecir si un individuo padece diabetes tipo 2, a partir de características 
 antropomórficas y socioculturales, sin tener en cuenta datos clínicos, reduciéndose con ello los costes 
