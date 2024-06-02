@@ -1,0 +1,33 @@
+# Autor: Andrea Campillo Piqueras.
+# Trabajo Fin de Máster Universitario en Análisis y Visualización de Datos Masivos/ Visual Analytics and Big Data.
+# PrediDia: Un Enfoque Predictivo para la Evaluación de la Diabetes.
+# GitHub: https://github.com/AndreaCampillo/TFM_PrediDia
+# Licencia: MIT License Copyright (c) 2024 Andrea Campillo Piqueras.
+
+# Este proyecto se basa en datos de las encuestas BRFSS (Behavioral Risk Factor Surveillance System) 
+# del Centro para el Control y la Prevención de Enfermedades (CDC). La información se ha utilizado 
+# sin manipular su contenido original y no se pretende que este proyecto represente o esté respaldado 
+# por el CDC. Los datos y materiales producidos por agencias federales generalmente están en el
+# dominio público y se pueden reproducir sin permiso. Sin embargo, el CDC solicita que cualquier 
+# madterial publicado derivado de los datos reconozca a las encuestas BRFSS del CDC como fuente original.
+
+
+URLs de bfrss importantes para el seguimiento del proyecto PrediDia.
+
+Información de las encuestas desde 1988 hasta 2022: https://www.cdc.gov/brfss/annual_data/annual_data.htm
+
+Año 2021:
+* Información encuesta: https://www.cdc.gov/brfss/annual_data/annual_2021.html
+* Cuestionario: https://www.cdc.gov/brfss/questionnaires/pdf-ques/2021-BRFSS-Questionnaire-1-19-2022-508.pdf
+* Layout del fichero LLCP2021.ASC: https://www.cdc.gov/brfss/annual_data/2021/llcp_varlayout_21_onecolumn.html
+* Matriz de campos calculados: https://www.cdc.gov/brfss/annual_data/2021/summary_matrix_21.html
+* Explicación campos calculados: https://www.cdc.gov/brfss/annual_data/2021/pdf/2021-calculated-variables-version4-508.pdf
+* Dataset LLCP2021.ASC (comprimido .zip): https://www.cdc.gov/brfss/annual_data/2021/files/LLCP2021ASC.zip
+
+Año 2022:
+* Información encuesta: https://www.cdc.gov/brfss/annual_data/annual_2022.html
+* Cuestionario: https://www.cdc.gov/brfss/questionnaires/pdf-ques/2022-BRFSS-Questionnaire-508.pdf
+* Layout del fichero LLCP2022.ASC: https://www.cdc.gov/brfss/annual_data/2022/llcp_varlayout_22_onecolumn.html
+* Matriz de campos calculados: https://www.cdc.gov/brfss/annual_data/2022/summary_matrix_22.html
+* Explicación campos calculados: https://www.cdc.gov/brfss/annual_data/2022/pdf/2022-calculated-variables-version4-508.pdf
+* Dataset LLCP2022.ASC  (comprimido .zip): https://www.cdc.gov/brfss/annual_data/2022/files/LLCP2022ASC.zip
